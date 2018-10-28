@@ -9,6 +9,7 @@ FASTA File Processor takes FASTA files (with path) as arguments and processes to
 ## External Libraries Used ##
 
 *   junit
+*   junit-addon
 *   log4j
 
 ### Execution Instructions ##
