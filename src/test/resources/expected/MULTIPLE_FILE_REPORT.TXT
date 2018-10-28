@@ -1,0 +1,8 @@
+FILE_CNT     2
+SEQUENCE_CNT     18
+BASE_CNT     2707
+A    524
+C    522
+G    577
+N    546
+T    538

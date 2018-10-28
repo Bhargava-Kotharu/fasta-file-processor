@@ -1,0 +1,8 @@
+FILE_CNT     1
+SEQUENCE_CNT     10
+BASE_CNT     1474
+A    293
+C    291
+G    314
+N    291
+T    285
