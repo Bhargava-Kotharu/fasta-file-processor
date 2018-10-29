@@ -23,7 +23,7 @@ public class FastaFileApplicationTest {
 	FastaFileApplication.main(args);
     }
 
-    // @Before
+    @Before
     public void setup() {
 	System.out.println("Deleting files before test!");
 	File reportFile = new File(ApplicationConstants.OUTPUT_FILE_NAME);
@@ -32,7 +32,7 @@ public class FastaFileApplicationTest {
 	sequenceFile.delete();
     }
 
-    // @AfterClass
+    @AfterClass
     public static void cleanup() {
 	System.out.println("Deleting files after all tests are executed!");
 	File reportFile = new File(ApplicationConstants.OUTPUT_FILE_NAME);
